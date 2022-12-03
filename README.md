@@ -11,3 +11,6 @@ clock https://aur.archlinux.org/packages/tty-clock
 
 
 tty-clock -C 4 -c -D -s
+
+
+Discord https://github.com/orblazer/discord-nordic
