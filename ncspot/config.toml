@@ -1,0 +1,26 @@
+[theme]
+background = "#2E344000"
+primary = "#ffff"
+##secondary = "light black"
+
+##lirary of 
+title = "#99C4F9"
+
+playing = "#F88E86"
+playing_selected = "#E5E9F0"
+
+## трек который играет фон 
+playing_bg = "#444444"
+
+highlight = "#E0E2E1"
+highlight_bg = "#4C566A"
+error = "#E0E2E1"
+error_bg = "#F88E86"
+statusbar = "#E0E2E1"
+statusbar_progress = "#BF616A"
+statusbar_bg = "#4C566A"
+cmdline = "#E0E2E1"
+cmdline_bg = "#444444"
+search_match = "#F88E86"
+
+
